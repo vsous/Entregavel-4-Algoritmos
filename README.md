@@ -80,3 +80,6 @@ Abre um menu no terminal para testar cada algoritmo digitando valores. Listas de
 - **Uma responsabilidade por arquivo:** cada algoritmo fica no seu módulo e é testado isoladamente.
 
 Cada algoritmo tem 2 testes: 1 de caso comum e 1 de entrada inválida.
+
+<img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/e9e3a8ea-3a09-4e8c-b6e0-a298587293dd" />
+
