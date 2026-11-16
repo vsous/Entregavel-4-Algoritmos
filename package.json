@@ -1,0 +1,19 @@
+{
+  "name": "entregavel-1-algoritmos",
+  "version": "2.0.0",
+  "description": "Algoritmos fundamentais em JavaScript com testes unitários (Jest)",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest --verbose"
+  },
+  "keywords": [
+    "algoritmos",
+    "jest",
+    "testes"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
