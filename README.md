@@ -38,13 +38,11 @@ Resultado esperado:
 ```
 PASS tests/fibonacci.test.js
   ✓ os 10 primeiros números da sequência de Fibonacci devem ser os corretos
-  ✓ os 2 primeiros números de Fibonacci devem ser 0 e 1
-  ✓ pedir 0 termos deve retornar uma lista vazia
   ✓ deve lançar erro para quantidade negativa, decimal ou grande demais
 ...
 
 Test Suites: 6 passed, 6 total
-Tests:       24 passed, 24 total
+Tests:       12 passed, 12 total
 ```
 
 Para rodar os testes de um algoritmo só:
@@ -81,4 +79,4 @@ Abre um menu no terminal para testar cada algoritmo digitando valores. Listas de
 - **Limites explícitos:** Fibonacci aceita até 78 termos, o máximo que o JavaScript representa sem perder precisão.
 - **Uma responsabilidade por arquivo:** cada algoritmo fica no seu módulo e é testado isoladamente.
 
-Cada algoritmo tem 4 testes: 2 de casos comuns, 1 de caso-limite e 1 de entrada inválida.
+Cada algoritmo tem 2 testes: 1 de caso comum e 1 de entrada inválida.
